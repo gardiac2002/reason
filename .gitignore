@@ -6,10 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-####################
-# Packages
-####################
 Bios*
+TensorFlow*
+fast*
 
 # Distribution / packaging
 .Python
